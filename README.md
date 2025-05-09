@@ -1,4 +1,4 @@
-# Object-Avoidance-Car using Arduino Mega
+# Object-Avoidance-Car using Arduino Mega 2560
 
 ## **1. Introduction**
 
