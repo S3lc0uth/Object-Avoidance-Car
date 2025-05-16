@@ -4,6 +4,8 @@
 
 This project involves the development of an autonomous robot car that can detect and avoid obstacles using an ultrasonic sensor mounted on a servo motor. The robot is driven by two DC motors controlled via an L298N motor driver, with an Arduino Mega serving as the control unit.
 
+![Car Diagram](car.jpg)
+
 ---
 
 ## **2. Components Used**
